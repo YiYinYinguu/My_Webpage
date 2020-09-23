@@ -30,7 +30,7 @@ education:
     institution: Zhejiang University
     year: 2020
   - course: BSc in Digital Media Technology
-    institution: Zhejiang Universityy
+    institution: Zhejiang University
     year: 2016
 
 # Social/Academic Networking
