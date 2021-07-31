@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate of ZJUIDG
+role: Ph.D. of ZJUIDG
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data visualization, glyph-based visualizaion.
 
 interests:
 - Data Visualization
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Computer Science
+  - course: PhD in Computer Science
     institution: Zhejiang University
     year: 2020
   - course: BSc in Digital Media Technology
@@ -59,8 +59,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Lu Ying is a Ph.D. candidate of computer science at the State Key Lab of CAD&CG, Zhejiang University and a ZJUIDG member supervised by Prof. Yingcai Wu.
+Lu Ying is a Ph.D. of computer science at the State Key Lab of CAD&CG, Zhejiang University and a ZJUIDG member supervised by Prof. Yingcai Wu.
 
 I have received my bachelor’s degree in digital media technology from College of Computer Science in Zhejiang University, 2020.
 
-My current research interests mainly include visualization.
+My current research interests mainly include data visualization, glyph-based visualizaion.

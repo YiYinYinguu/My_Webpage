@@ -5,7 +5,6 @@ authors:
 - Lingyun Yu
 - Tan Tang
 - Xinhuan Shu
-- admin
 - Yuhua Zhou
 - PEIRAN REN
 - Yingcai Wu
@@ -29,18 +28,19 @@ publication_short: In *VIS 2020*
 abstract: Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.
 
 # Summary. An optional shortened abstract.
-summary: Transitions are widely used in data videos to seamlessly connect data-driven charts or connect visualizations and non-data-driven motion graphics. To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.
+summary: To inform the transition designs in data videos, we conduct a content analysis based on more than 3500 clips extracted from 284 data videos. We annotate visualization types and transition designs on these segments, and examine how these transitions help make connections between contexts. We propose a taxonomy of transitions in data videos, where two transition categories are defined in building fluent narratives by using visual variables.
 
 tags:
-- 
+-
 featured: true
 
 links:
-url_pdf: '#'
-url_video: '#'
+url_pdf: 'https://arxiv.org/abs/2009.05233'
+url_video: 'https://virtual.ieeevis.org/paper_s-short-1198.html'
+
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""
